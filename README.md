@@ -1,17 +1,23 @@
-## Hi there 👋
+<!-- 1. GitHub usernameを変更 -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Sanuki-073" />
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanuki-073)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Sanuki-073/Sanuki-073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-Here are some ideas to get you started:
+- 🧑‍💻 I'm maybe a data engineer.
+- 🐍 Using Languages: Python (more than 5 years), TypeScript (almost 1 years), Kotlin (almpst 1+2 years)
+- 🎮 hobby: web novel, tv game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ライトモート：theme=light, ダークモート：theme=dark -->
+<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,docker,kotlin,ts,react,next" />
+
+<!-- 4. GitHub usernameを変更, 2箇所 -->
+<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Sanuki-073&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanuki-073&theme=vue-dark&layout=compact" />
+</div>
